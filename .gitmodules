@@ -1,0 +1,12 @@
+[submodule "itmo-functional-programming-lab-3"]
+	path = itmo-functional-programming-lab-3
+	url = https://github.com/JABAN111/itmo-functional-programming-lab-3.git
+[submodule "itmo-functional-programming-lab-0"]
+	path = itmo-functional-programming-lab-0
+	url = https://github.com/JABAN111/itmo-functional-programming-lab-0.git
+[submodule "itmo-functional-programming-lab-2"]
+	path = itmo-functional-programming-lab-2
+	url = https://github.com/JABAN111/itmo-functional-programming-lab-2.git
+[submodule "itmo-functional-programming-lab-1"]
+	path = itmo-functional-programming-lab-1
+	url = https://github.com/JABAN111/itmo-functional-programming-lab-1.git

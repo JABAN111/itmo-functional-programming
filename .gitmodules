@@ -10,3 +10,6 @@
 [submodule "itmo-functional-programming-lab-1"]
 	path = itmo-functional-programming-lab-1
 	url = https://github.com/JABAN111/itmo-functional-programming-lab-1.git
+[submodule "sos"]
+	path = sos
+	url = https://github.com/JABAN111/sos.git
